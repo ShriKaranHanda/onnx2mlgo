@@ -4,3 +4,4 @@ dist/
 mlgo/dist
 tests/*/
 tests/llama2.onnx
+venv
